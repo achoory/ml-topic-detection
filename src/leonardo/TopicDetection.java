@@ -38,7 +38,7 @@ public class TopicDetection {
 		  //adding headers
 		  connection.setRequestProperty("content-type","multipart/form-data; boundary=---011000010111000001101001");
 		  //API Key for API Sandbox
-		  connection.setRequestProperty("APIKey","<APIKeygoeshere>");
+		  connection.setRequestProperty("APIKey","MfEKkaIbIRZNclYDhtCRabXsGcS6GoLn");
 
 
 		  //Available Security Schemes for productive API Endpoints
